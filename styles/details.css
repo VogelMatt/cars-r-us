@@ -1,0 +1,27 @@
+
+.options {
+    display: flex;
+    flex-basis: 30.5%;
+    flex-direction:column ;
+    margin: 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+    box-sizing: 150px;
+    background-color:rgb(237, 212, 194)
+}
+
+.choices {
+    display: flex;
+    flex-flow: wrap-reverse;
+    justify-content:space-evenly;
+     
+}
+.customOrders {
+    background-color: rgb(232, 240, 240);
+    border: 1px dotted black;
+    padding: 0px 10px 15px 10px;
+    border-radius: 1rem;
+    
+}
